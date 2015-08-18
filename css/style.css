@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    font-size: 4em;    
+}
+
+h3 {
+    color: white;
+    font-size: 2em;
+}
+
+body{
+  background-image: url("../img/pplanter_main.jpg");
+  width:100%;
+  padding: 10%;
+}
+
+a,
+a:focus,
+a:hover {
+  color: #EFED9F;
+}
